@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/sergey.zabolotniy/StudioProjects/grade14_try/android/app/.cxx/Debug/3c186a6v/arm64-v8a",
+  "command": "/Users/sergey.zabolotniy/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sergey.zabolotniy/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sergey.zabolotniy/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIE -o CMakeFiles/sum_test.dir/sum.c.o -c /Users/sergey.zabolotniy/StudioProjects/grade14_try/lib/sum_ffi/sum.c",
+  "file": "/Users/sergey.zabolotniy/StudioProjects/grade14_try/lib/sum_ffi/sum.c"
+},
+{
+  "directory": "/Users/sergey.zabolotniy/StudioProjects/grade14_try/android/app/.cxx/Debug/3c186a6v/arm64-v8a",
+  "command": "/Users/sergey.zabolotniy/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/sergey.zabolotniy/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/sergey.zabolotniy/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsum_ffi_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/sum_ffi.dir/sum.c.o -c /Users/sergey.zabolotniy/StudioProjects/grade14_try/lib/sum_ffi/sum.c",
+  "file": "/Users/sergey.zabolotniy/StudioProjects/grade14_try/lib/sum_ffi/sum.c"
+}
+]

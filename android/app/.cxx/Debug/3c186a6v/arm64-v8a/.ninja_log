@@ -1,0 +1,4 @@
+# ninja log v5
+0	88	1720559811	CMakeFiles/sum_test.dir/sum.c.o	a049f6406a540815
+1	89	1720559811	CMakeFiles/sum_ffi.dir/sum.c.o	2912be2bbdf3218e
+89	168	1720559811	/Users/sergey.zabolotniy/StudioProjects/grade14_try/build/app/intermediates/cxx/Debug/3c186a6v/obj/arm64-v8a/libsum.so	49ef57b659ce3b18

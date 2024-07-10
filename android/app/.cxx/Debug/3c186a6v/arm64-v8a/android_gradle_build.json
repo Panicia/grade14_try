@@ -1,0 +1,45 @@
+{
+  "buildFiles": [
+    "/Users/sergey.zabolotniy/StudioProjects/grade14_try/lib/sum_ffi/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/sergey.zabolotniy/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/sergey.zabolotniy/StudioProjects/grade14_try/android/app/.cxx/Debug/3c186a6v/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/sergey.zabolotniy/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/sergey.zabolotniy/StudioProjects/grade14_try/android/app/.cxx/Debug/3c186a6v/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "sum_ffi::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "sum_ffi",
+      "output": "/Users/sergey.zabolotniy/StudioProjects/grade14_try/build/app/intermediates/cxx/Debug/3c186a6v/obj/arm64-v8a/libsum.so",
+      "runtimeFiles": []
+    },
+    "sum_test::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "sum_test",
+      "output": "/Users/sergey.zabolotniy/StudioProjects/grade14_try/build/app/intermediates/cxx/Debug/3c186a6v/obj/arm64-v8a/sum_test",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/sergey.zabolotniy/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/sergey.zabolotniy/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
